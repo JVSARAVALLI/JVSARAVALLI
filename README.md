@@ -1,5 +1,12 @@
-### Minhas Principais Linguagens:
+# Olá, me chamo João Victor Saravalli! 👋
+
+<p align="left">
+  Sou um estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia e com foco em desenvolvimento Back-end. Estou sempre em busca de novos desafios para aplicar e expandir meus conhecimentos em lógica de programação, bancos de dados e criação de sistemas robustos e eficientes.
+</p>
+
 ---
+
+### 💻 Minhas Principais Linguagens e Ferramentas:
 
 <p align="left">
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
@@ -21,6 +28,10 @@
 
 ---
 
-[![Estatísticas de Prof. Hebert no GitHub](https://github-readme-stats.vercel.app/api?username=JVSARAVALLI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 Minhas Estatísticas no GitHub:
 
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JVSARAVALLI&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Estatísticas de JVSARAVALLI no GitHub](https://github-readme-stats.vercel.app/api?username=JVSARAVALLI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Linguagens Mais Usadas por JVSARAVALLI](https://github-readme-stats.vercel.app/api/top-langs/?username=JVSARAVALLI&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+---
