@@ -21,6 +21,6 @@
 
 ---
 
-[![Estatísticas de Prof. Hebert no GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Estatísticas de Prof. Hebert no GitHub](https://github-readme-stats.vercel.app/api?username=JVSARAVALLI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME_AQUI&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JVSARAVALLI_AQUI&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
