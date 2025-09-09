@@ -1,12 +1,12 @@
-# Olá, me chamo João Vitor do Nascimento Saravalli! 👋
+# Hi, I'm João Vitor do Nascimento Saravalli! 👋
 
 <p align="left">
-  Sou um estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia e com foco em desenvolvimento Back-end. Estou sempre em busca de novos desafios para aplicar e expandir meus conhecimentos em lógica de programação, bancos de dados e criação de sistemas robustos e eficientes.
+  I am a Systems Analysis and Development student, passionate about technology with a focus on Back-end development. I am always looking for new challenges to apply and expand my knowledge in programming logic, databases, and building robust and efficient systems.
 </p>
 
 ---
 
-### 💻 Minhas Principais Linguagens e Ferramentas:
+### 💻 My Main Languages and Tools:
 
 <p align="left">
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
@@ -28,10 +28,10 @@
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub:
+### 📊 My GitHub Stats:
 
-[![Estatísticas de JVSARAVALLI no GitHub](https://github-readme-stats.vercel.app/api?username=JVSARAVALLI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![JVSARAVALLI's GitHub stats](https://github-readme-stats.vercel.app/api?username=JVSARAVALLI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Linguagens Mais Usadas por JVSARAVALLI](https://github-readme-stats.vercel.app/api/top-langs/?username=JVSARAVALLI&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![JVSARAVALLI's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JVSARAVALLI&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
